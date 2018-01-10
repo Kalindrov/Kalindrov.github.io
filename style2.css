@@ -1,0 +1,158 @@
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+
+}
+
+h1 {
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+hr {
+	margin: 0px 10px 0px 10px;
+}
+
+p {
+	font-size: 12px;
+	text-align: center;
+}
+
+#bioImage {
+	width: 200px;
+	height: 200px;
+	padding: 7px 7px 0px 3px;
+	margin: 7px 0px 0px 7px;
+	float: left;
+}
+
+#imageLinks {
+	align-content: center;
+}
+
+section {
+	width: 650px;
+	height: 562px;
+}
+
+#left {
+	margin-left: 80px;
+	margin-top: 40px;
+	width: 250px;
+	height: 100px;
+	padding: 30px;
+	color: #fff;
+  	background: #4aaaa5;
+  	font-size: 30px;
+  	text-align: center;
+	float: left;
+}
+
+
+#right {
+	margin-right: 340px;
+	margin-top: 80px;
+	width: 400px;
+	height: 30px;
+	color: #777777;
+  	background: #ffffff;
+  	font-size: 18px;
+  	text-align: center;
+	float: right;
+}
+
+#one, #two, #three {
+	margin-right: 5px;
+	margin-left: 6px;
+
+}
+
+#one, #two {
+	border-right: 1px solid black;
+}
+
+#full {
+	overflow: auto;
+	width: 100%;
+	height: 650px;
+	color: #000;
+  	background-image: url("vintage-concrete.png");
+}
+
+#division {
+	width: 270px;
+	height: 30%;
+	margin-top: 35px;
+	margin-right: 270px;
+	color: #4aaaa5;
+  	background: #fff;
+  	font-size: 18px;
+  	text-align: center;
+  	margin-left: 25px;
+  	float: left;
+}
+
+#bio {
+	font-size: 20px;
+	text-align: left;
+	line-height: 1.5;
+	color: #777777;
+	margin: 7px 0px 0px 11px;
+}
+
+.thumbnail {
+	justify-content: center;
+	margin: 6px;
+	width: 26%;
+	height: 26%;
+}
+
+aside {
+	display: inline;
+	width: 650px;
+	height: 90%;
+	margin-top: 35px;
+	margin-left: 80px;
+	padding: 15px;
+	color: #4aaaa5;
+  	background: #ffffff;
+  	font-size: 30px;
+  	text-align: left;
+	float: left;
+}
+
+footer { 
+	width: 100%;
+	height: 100px;
+  	margin-bottom: 20px;
+  	padding-top: 30px;
+	color: #fff;
+  	background: #666666;
+	float: left;
+	border-top: 100px;
+	border-color: #425;
+}
+
+a {
+	word-spacing: 10px;
+    color: #777777;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     word-spacing: 10px;
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+#spacing {
+    font-size: 22px;
+    line-height: middle;
+    margin: 0 !important;
+    word-spacing: 10px;
+}
