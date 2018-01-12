@@ -14,6 +14,7 @@ footer {
 
 p {
 	margin: auto;
+	line-height: 1.3;
 	font-size: 18px;
 	font-family: Garamond;
 	font-weight: normal;
@@ -86,8 +87,8 @@ p {
 
 .project2 {
 	margin-right: 10px;
-	width: 200px;
-	height: 160px;
+	width: 270px;
+  	height: 180px;
 	float: left;
 	box-shadow: 2px 2px 2px #000000;
 }
@@ -159,8 +160,8 @@ a:visited
 .box-2 {
 /*HANGMAN*/
   position: absolute;
-  width: 200px;
-  height: 160px;
+  width: 270px;
+  height: 180px;
   left: 30px;
   top: 100px;
   box-shadow: 2px 2px 2px #000000;
@@ -170,10 +171,10 @@ a:visited
 .box-2a {
 /*HANGMAN TITLE*/
   position: absolute;
-  width: 202px;
+  width: 272px;
   height: 40px;
   left: 30px;
-  top: 200px;
+  top: 220px;
   background: #4aaaa5;
   z-index: 300;
 }
@@ -181,9 +182,9 @@ a:visited
 .box-3 {
 /*RPG GAME BOX*/
   position: absolute;
-  width: 200px;
-  height: 160px;
-  left: 265px;
+  width: 270px;
+  height: 180px;
+  left: 345px;
   top: 100px;
   box-shadow: 2px 2px 2px #000000;
   z-index: 200;
@@ -192,10 +193,10 @@ a:visited
 .box-3a {
 /*RPG GAME TITLE*/
   position: absolute;
-  width: 202px;
+  width: 272px;
   height: 40px;
-  left: 265px;
-  top: 200px;
+  left: 345px;
+  top: 220px;
   background: #4aaaa5;
   z-index: 300;
 }
@@ -203,10 +204,10 @@ a:visited
 .box-4 {
 /*TRIVIA GAME*/
   position: absolute;
-  width: 200px;
-  height: 160px;
+  width: 270px;
+  height: 180px;
   left: 30px;
-  top: 300px;
+  top: 320px;
   background: blue;
   box-shadow: 2px 2px 2px #000000;
   z-index: 200;
@@ -215,10 +216,10 @@ a:visited
 .box-4a {
 /*TRIVIA GAME TITLE*/
   position: absolute;
-  width: 202px;
+  width: 272px;
   height: 40px;
   left: 30px;
-  top: 400px;
+  top: 440px;
   background: #4aaaa5;
   z-index: 300;
 }
@@ -226,10 +227,10 @@ a:visited
 .box-5 {
 /*RUTGERS INFO WIDGET*/
   position: absolute;
-  width: 200px;
-  height: 160px;
-  left: 265px;
-  top: 300px;
+  width: 270px;
+  height: 180px;
+  left: 345px;
+  top: 320px;
   background: orange;
   box-shadow: 2px 2px 2px #000000;
   z-index: 200;
@@ -238,10 +239,10 @@ a:visited
 .box-5a {
 /*RUTGERS INFO WIDGET TITLE*/
   position: absolute;
-  width: 202px;
+  width: 272px;
   height: 40px;
-  left: 265px;
-  top: 400px;
+  left: 345px;
+  top: 440px;
   background: #4aaaa5;
   z-index: 300;
 }
