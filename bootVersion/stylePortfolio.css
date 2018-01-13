@@ -41,6 +41,8 @@
   border-radius: 20px;
   background-image: url("assets/image10.jpg");
   background-size: 600px 200px;
+  position: relative;
+  height: 200px;
 }
 
 .newsBox4 {
@@ -50,6 +52,8 @@
   border-radius: 20px;
   background-image: url("assets/image11.jpg");
   background-size: 600px 200px;
+  position: relative;
+  height: 200px;
 }
 
 .newsBox5 {
@@ -59,6 +63,8 @@
   border-radius: 20px;
   background-image: url("assets/image12.jpg");
   background-size: 600px 200px;
+  position: relative;
+  height: 200px;
 }
 
 h1 {
