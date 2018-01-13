@@ -67,11 +67,17 @@
   height: 200px;
 }
 
-h1 {
+.title {
   text-align: center;
   padding-top: 30px;
+  color: grey;
 }
 
+.subtitle {
+  font-size: 30px;
+  padding-bottom: 50px;
+  text-shadow: 1px 1px grey;
+}
 
 @media screen and (max-width: 1000px) {
 
