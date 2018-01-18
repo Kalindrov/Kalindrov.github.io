@@ -361,5 +361,11 @@ textarea {
 
 }
 
+@media screen and (max-width: 768px) {
 
+   box-8 {
+    width: 200px;
+    background-color: red;
+   }
 
+}
